@@ -1,1 +1,2 @@
-print("Hello)
+print("Hello")
+print("Telusko man this is sandeep")
